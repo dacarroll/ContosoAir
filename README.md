@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/dacarr/tahoma_git/_apis/build/status/dacarroll.ContosoAir?branchName=master)](https://dev.azure.com/dacarr/tahoma_git/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
